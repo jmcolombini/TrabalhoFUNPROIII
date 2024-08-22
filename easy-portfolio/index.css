@@ -1,0 +1,118 @@
+body {
+    color: white;
+    background-color: rgb(25, 25, 25);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+    width: 180px;
+    height: 180px;
+    border-radius: 30%;
+    border: 5px solid lightsalmon;
+}
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: lightsalmon;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+footer a {
+    margin: 20px;
+}
+
+footer p {
+    margin-top: 2px;
+}
+
+.container {
+    padding: 0px 400px;
+}
+
+nav a:hover {
+    color: lightsalmon;
+}
+
+main a {
+    text-decoration: underline;
+}
+
+body {
+    background-color: rgb(25, 25, 25);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+td {
+    border: 1px solid white;
+    padding: 10px;
+    width: 150px;
+    height: 50px;
+
+}
+table {
+    width: 600px;
+    height: 150px;
+    border-collapse: collapse;
+    margin: auto;
+}
+.cargo {
+    margin-top: -15px;
+}
+
+.nome {
+    margin-right: 10px; /* Ajuste a distância entre os textos */
+    margin-top: 20px;
+}
+
+.sobre {
+    margin-top: 40px;
+}
+.escolas{
+    margin-top: 40px;
+}
+
+.maria {
+    background-color: darkgoldenrod;
+}
+.fb{
+    background-color: darkgreen;
+}
+.ifce{
+    background-color: rgb(158, 59, 59);
+}
+.esc{
+    background-color: wheat;
+    color: black;
+}
